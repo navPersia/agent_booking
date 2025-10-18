@@ -1,4 +1,4 @@
-# 🧠 Open Booking Agent (MCP + AI + Calendar + Email OTP)
+look# 🧠 Open Booking Agent (MCP + AI + Calendar + Email OTP)
 
 ### “An AI-powered open booking system that verifies, checks availability, and books appointments automatically.”
 
@@ -165,7 +165,4 @@ If you’d like to extend this system (e.g., add a Teams, Outlook, or Notion con
 💬 Author
 
 Navid Radkusha
-AI Engineer | Founder of StudioStreamX
-📍 Antwerp, Belgium
-🔗 LinkedIn
  | StudioStreamX
