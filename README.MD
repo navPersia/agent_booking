@@ -167,7 +167,7 @@ If you’d like to extend this system (e.g., add a Teams, Outlook, or Notion con
 Navid Radkusha
 
 <picture>
-  <img src="1760824780253.jpeg" alt="" />
-  <img src="1760824780320.jpeg" alt="" />
-  <img src="1760824780675.jpeg" alt="" />
+  <img src="./1760824780253.jpeg" alt="" />
+  <img src="./1760824780320.jpeg" alt="" />
+  <img src="./1760824780675.jpeg" alt="" />
 </picture>
